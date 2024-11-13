@@ -1,2 +1,2 @@
 # code-crafters
-this repo is for https://codecrafters.io
+this repo is for [code-crafters](https://codecrafters.io)
